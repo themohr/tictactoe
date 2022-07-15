@@ -1,0 +1,15 @@
+/Users/mohrd2/apps-csharp/tictactoe/bin/Debug/net6.0/tictactoe
+/Users/mohrd2/apps-csharp/tictactoe/bin/Debug/net6.0/tictactoe.deps.json
+/Users/mohrd2/apps-csharp/tictactoe/bin/Debug/net6.0/tictactoe.runtimeconfig.json
+/Users/mohrd2/apps-csharp/tictactoe/bin/Debug/net6.0/tictactoe.dll
+/Users/mohrd2/apps-csharp/tictactoe/bin/Debug/net6.0/tictactoe.pdb
+/Users/mohrd2/apps-csharp/tictactoe/obj/Debug/net6.0/tictactoe.csproj.AssemblyReference.cache
+/Users/mohrd2/apps-csharp/tictactoe/obj/Debug/net6.0/tictactoe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohrd2/apps-csharp/tictactoe/obj/Debug/net6.0/tictactoe.AssemblyInfoInputs.cache
+/Users/mohrd2/apps-csharp/tictactoe/obj/Debug/net6.0/tictactoe.AssemblyInfo.cs
+/Users/mohrd2/apps-csharp/tictactoe/obj/Debug/net6.0/tictactoe.csproj.CoreCompileInputs.cache
+/Users/mohrd2/apps-csharp/tictactoe/obj/Debug/net6.0/tictactoe.dll
+/Users/mohrd2/apps-csharp/tictactoe/obj/Debug/net6.0/refint/tictactoe.dll
+/Users/mohrd2/apps-csharp/tictactoe/obj/Debug/net6.0/tictactoe.pdb
+/Users/mohrd2/apps-csharp/tictactoe/obj/Debug/net6.0/tictactoe.genruntimeconfig.cache
+/Users/mohrd2/apps-csharp/tictactoe/obj/Debug/net6.0/ref/tictactoe.dll
